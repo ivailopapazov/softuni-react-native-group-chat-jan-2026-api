@@ -4,7 +4,7 @@
   "description": "React Native Course Project Backend API",
   "main": "index.js",
   "scripts": {
-    "start": "json-server-auth db.json"
+    "start": "json-server-auth db.json --host 0.0.0.0 --port $PORT"
   },
   "repository": {
     "type": "git",
