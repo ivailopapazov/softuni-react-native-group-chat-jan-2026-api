@@ -1,16 +1,16 @@
 {
   "users": [
     {
-      "email": "ivo@abv.bg",
-      "password": "$2a$10$ZWk2ToanwwhB0jBzfWtUF.nBtCOb98NKTKhtdBnK1k7fIAa1K0ABG",
-      "name": "Ivaylo",
-      "id": 1
+      "email": "stamat@abv.bg",
+      "password": "$2a$10$9aj1KX5b54oIbEUIdN8Qq.R4PogFb4XtI07NZf5KNr4b5X/nIHgo.",
+      "name": "Stamat",
+      "id": 3
     },
     {
-      "email": "pesho@abv.bg",
-      "password": "$2a$10$rpMrCk1XtXQK3Tc4DvGMCeh4GrX4VRoGuQdrio/EEfyOwSFcT1mzu",
-      "name": "Pesho",
-      "id": 2
+      "email": "ivo@abv.bg",
+      "password": "$2a$10$JYEBD03sVnroNJpf.hfXa.YiThSziisqW6Cery6sapg0tyb2z67Sq",
+      "name": "Ivaylo",
+      "id": 4
     }
   ],
   "messages": [
@@ -43,11 +43,18 @@
       "id": 4
     },
     {
-      "text": "Hello there",
+      "text": "Hello there!!!",
       "userId": 2,
       "userName": "Pesho",
       "timestamp": "2026-01-26T21:11:10.517Z",
       "id": 5
+    },
+    {
+      "text": "Hello",
+      "userId": 4,
+      "userName": "Ivaylo",
+      "timestamp": "2026-02-23T19:08:58.173Z",
+      "id": 6
     }
   ]
 }
